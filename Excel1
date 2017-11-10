@@ -1,0 +1,1 @@
+=IF(10<=E2:E12,"Special Order","No") 
