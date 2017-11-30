@@ -1,0 +1,1 @@
+=IF(A1=1, "good",IF(A1=2, "good",IF(A1=3,"bad","Maybe")))
